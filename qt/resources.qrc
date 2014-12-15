@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AboutWindow.qml</file>
+        <file>qml/FlatButton.qml</file>
+        <file>qml/MainMenuBar.qml</file>
+        <file>qml/MainView.qml</file>
+        <file>qml/MainWindow.qml</file>
+        <file>qml/OverlayMessage.qml</file>
+        <file>qml/PreferencesWindow.qml</file>
+        <file>qml/ProjectListEmpty.qml</file>
+        <file>qml/ProjectListItem.qml</file>
+        <file>qml/ProjectListModel.qml</file>
+        <file>qml/ProjectListToolbar.qml</file>
+        <file>qml/ProjectListView.qml</file>
+        <file>qml/ServerProcess.qml</file>
+        <file>qml/Storage.qml</file>
+        <file>qml/Updater.qml</file>
+        <file>qml/UpdateWindow.qml</file>
+        <file>qml/base/BaseLabel.qml</file>
+        <file>qml/base/BaseText.qml</file>
+        <file>qml/base/BaseWindow.qml</file>
+        <file>qml/base/RichText.qml</file>
+        <file>qml/images/arrow.png</file>
+        <file>qml/images/cross.svg</file>
+        <file>qml/images/logo.png</file>
+        <file>qml/images/icons/sublime-text.png</file>
+        <file>js/LocalStorage.js</file>
+        <file>js/Utils.js</file>
+        <file>js/WindowManager.js</file>
+    </qresource>
+</RCC>

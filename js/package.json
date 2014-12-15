@@ -1,0 +1,31 @@
+{
+  "name": "live-html-js",
+  "private": true,
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "homepage": "http://everythingfrontend.com/live-html/",
+  "author": {
+    "name": "Dmitriy Kubyshkin",
+    "email": "dmitriy@kubyshkin.ru",
+    "url": "http://everythingfrontend.com"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "matchdep": "~0.3.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "grunt-contrib-connect": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-closurecompiler": "~0.9.9",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-karma": "~0.6.2",
+    "karma": "~0.10.4"
+  }
+}

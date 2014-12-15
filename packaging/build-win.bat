@@ -1,0 +1,1 @@
+windeployqt src\livehtml.exe --qmldir=..\qt\qml

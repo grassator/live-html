@@ -1,0 +1,29 @@
+{
+  "name": "live-html-js",
+  "description": "",
+  "main": ["dist/main.min.js"],
+  "version": "0.2.0",
+  "ignore": [
+    "node_modules/",
+    "test/",
+    "vendor/",
+    "examples/",
+    ".editorconfig",
+    ".gitignore",
+    ".travis.yml",
+    "bower.json",
+    "CONTRIBUTING.md",
+    "Gruntfile.js",
+    "karma.conf.js",
+    "package.json",
+    "paths.json"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.5"
+  },
+  "exportsOverride": {
+    "requirejs": {
+      "": "require.js"
+    }
+  }
+}

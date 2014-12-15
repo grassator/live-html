@@ -1,0 +1,13 @@
+# Mac OS X
+.DS_Store
+
+# Packaging for different platforms
+packaging/dist/
+packaging/src/
+
+# nodejs
+node_modules/
+
+# qt
+*.pro.user*
+*.autosave

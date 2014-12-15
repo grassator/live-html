@@ -1,0 +1,5 @@
+{
+  "src": "src",
+  "dist": "dist",
+  "vendor": "vendor"
+}
